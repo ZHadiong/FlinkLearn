@@ -62,7 +62,7 @@ public class BatchJob {
 		 */
 
 		// execute program
-
+		System.out.println("123");
 		env.execute("Flink Batch Java API Skeleton");
 	}
 }
